@@ -1,3 +1,15 @@
+/* you can import CSS from other pens - we'll import color and typography styles from this pen */
+
+body {
+  background: #1e7a90;
+  color: #fff;
+  font-family: "Oswald", Arial, sans-serif;
+  text-align: center;
+}
+
 h1 {
-    color: aqua;
+  width: 100%;
+  text-align: center;
+  letter-spacing: 0.02em;
+  margin: 2em 0;
 }
