@@ -3,6 +3,7 @@ body, html{
   background: white;
   font-family: "Oswald", Arial, sans-serif;
   text-align: center;
+  margin-bottom: 50px;
 }
 
 .company {
@@ -28,15 +29,6 @@ body, html{
   width: 150px;
   padding-top: 15px;
 }
-
-/* .compare2 {
-  width: 100%;
-  background-image: url(logos/delivery.png) no-repeat;
-  background-size: 100% auto;
-  /* margin-left: 0px;
-  margin-right: 0px;
-  padding: 0px; */
-/* } */
 
 .WideImage {
   width: 100%;
