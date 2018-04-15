@@ -1,10 +1,14 @@
 /* you can import CSS from other pens - we'll import color and typography styles from this pen */
-
-body {
-  background: #1e7a90;
+body, html{
+  /*background: #1e7a90;*/
+  background: white;
   color: #fff;
   font-family: "Oswald", Arial, sans-serif;
   text-align: center;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-bottom: 1%;
+  margin-top: 1%;
 }
 
 h1 {
@@ -12,4 +16,28 @@ h1 {
   text-align: center;
   letter-spacing: 0.02em;
   margin: 2em 0;
+}
+
+.CP {
+  text-align: center;
+  color: black;
+  width: 300px;
+  padding: 50px;
+  font-family: "Oswald", Arial, sans-serif;
+  border: 1px solid black;
+  border-radius: 4px;
+
+}
+
+.logos_ind {
+  width: 150px;
+  outline-color: blue;
+}
+
+.logos_score {
+
+}
+
+#compare {
+  width: 100%;
 }
