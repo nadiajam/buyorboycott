@@ -37,7 +37,7 @@ h1 {
 }
 
 #subtitle{
-  padding-top: 0px;
+  padding-top: 30px;
 }
 
 #images {
@@ -72,8 +72,8 @@ margin:5px;*/
 }
 
 .row1 {
-	padding-bottom: 70px;
-	padding-top: 40px;
+	padding-bottom: 80px;
+	padding-top: 60px;
 }
 
 .dating {
@@ -93,8 +93,8 @@ margin:5px;*/
 .apparel {
 	text-align: center;
 /*	background-color: blue;*/	
-  padding-right: 75px;
-  padding-left: 75px;
+  padding-right: 100px;
+  padding-left: 100px;
 }
 
 .apparel img {
@@ -130,9 +130,9 @@ margin:5px;*/
 
 .retail {
 	text-align: center;
-/*	background-color: brown;
-*/padding-right: 75px;
-  padding-left: 75px;
+/*	background-color: bn;*/
+  padding-right: 110px;
+  padding-left: 110px;
 }
 
 .retail img {
