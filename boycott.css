@@ -1,0 +1,79 @@
+body {
+  color: #fff;
+  font-family: "Oswald", Arial, sans-serif;
+  text-align: center;
+  font-color: #000000;
+  background: #DCDCDC;
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+  letter-spacing: 0.02em;
+  margin: 2em 0;
+}
+
+#images {
+/*    float:right; */
+	border-style:solid;
+    border-width:1px;
+	border-color: black;
+/*    padding:20px;
+    margin:5px;*/
+    width:100%;
+    overflow:hidden;
+    text-align:center;
+}
+
+.clearfix {
+    clear: both;
+}
+
+/*.dating {
+  height: 50px;
+  width: 150px;
+  padding-right: 5px;
+  display: block; or inline-block
+  padding: 10px; just for a little visual spacing
+}*/
+
+.dating img {
+
+/*  position: relative;
+  display: inline-block;
+  float: right;
+  margin-right: 25px;*/
+  float: left;
+  margin-right: 15px;
+  width: 80px;
+}
+
+.apparel img {
+	float: left;
+    margin-right: 15px;
+    width: 80px;
+}
+
+.transportation img {
+	float: left;
+    margin-right: 15px;
+    width: 80px;
+}
+
+.delivery img {
+	float: left;
+    margin-right: 15px;
+    width: 80px;
+}
+
+.retail img {
+	float: left;
+    margin-right: 15px;
+    width: 80px;
+}
+
+.news img {
+	float: left;
+    margin-right: 15px;
+    width: 80px;
+}
