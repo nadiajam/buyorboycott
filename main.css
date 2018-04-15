@@ -22,15 +22,15 @@ h1 {
   text-align: center;
   color: black;
   width: 300px;
-  padding: 50px;
+  padding: 20px;
+  padding-top: 10px;
   font-family: "Oswald", Arial, sans-serif;
   border: 1px solid black;
   border-radius: 4px;
-
 }
 
 .logos_ind {
-  width: 150px;
+  width: 200px;
   outline-color: blue;
 }
 
