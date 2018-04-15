@@ -16,17 +16,21 @@ h1 {
   text-align: center;
   letter-spacing: 0.02em;
   margin: 2em 0;
+  color: Black;
+  font-family: "Oswald", Arial, sans-serif;
 }
 
 .CP {
-  text-align: center;
-  color: black;
+  background-color: white;
   width: 300px;
   padding: 20px;
   padding-top: 10px;
   font-family: "Oswald", Arial, sans-serif;
-  border: 1px solid black;
   border-radius: 4px;
+  box-shadow: 0px 2px 4px 0px rgba(182, 182, 182);
+  margin: 15px;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 .logos_ind {
@@ -38,6 +42,11 @@ h1 {
 
 }
 
-#compare {
+.compare2 {
   width: 100%;
+  background-image: url(logos/delivery.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  margin: 0px;
+  padding: 0px;
 }
