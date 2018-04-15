@@ -26,12 +26,14 @@ h1 {
     cursor:pointer;
    }
 
-#name{
+#logo{
 	padding-top: 15px;
+  display: inline-block;
+  padding-left: 7px;
 }
 
 #subtitle{
-  padding-top: 15px;
+  padding-top: 0px;
 }
 
 #images {
@@ -65,7 +67,7 @@ margin:5px;*/
 	padding-top: 0px;
 }
 
-.row1{
+.row1 {
 	padding-bottom: 70px;
 	padding-top: 40px;
 }
