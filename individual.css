@@ -1,0 +1,50 @@
+.container img {
+  display: block;
+  width: 25%;
+  padding: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.meter {
+  padding: 0px auto;
+}
+
+.numerator {
+  color: green;
+}
+
+.c_suite, .board, .CEO {
+  float: left;
+  padding: 5px 15px;
+  margin: 0px 40px 0px 55px;
+  width: 210px;
+}
+
+.container2 {
+  text-align: center;
+  margin: 0px auto;
+  width: 80%;
+  padding: 0px;
+}
+
+.CEO h1{
+  font-size: 30px;
+  padding: 0px;
+  text-align: center;
+  margin: 0px
+}
+
+.board h1, .c_suite h1{
+  font-size: 30px;
+  padding: 0px;
+}
+
+.data {
+  display: block;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+}

@@ -52,6 +52,6 @@ body, html{
 
 .Column {
   display: table-cell;
-  background-color: red;
+  /* background-color: red; */
   vertical-align: middle;
 }
