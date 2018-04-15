@@ -1,12 +1,13 @@
 body {
 /*	font-family: "Oswald", Arial, sans-serif;
 *//*	text-align: center;
-*//*	font-color: #DCDCDC;
-*/	background: #DCDCDC;
+*//*	font-color: #DCDCDC;*/	
+  background: #DCDCDC;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 h1 {
-	font-family: "Oswald", Arial, sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 	font-color: #DCDCDC;
 	font-size: 20px;
 	width: 100%;
@@ -14,8 +15,23 @@ h1 {
 	margin: 10px;
 }
 
+ a {
+    text-decoration: none ;
+    color: #000000;
+  }
+ a:hover
+  {
+    color: #696969;
+    text-decoration:none;
+    cursor:pointer;
+   }
+
 #name{
 	padding-top: 15px;
+}
+
+#subtitle{
+  padding-top: 15px;
 }
 
 #images {
@@ -25,9 +41,9 @@ h1 {
 *//*	border-color: black;
 *//*    padding:20px;
 margin:5px;*/
-width:100%;
-overflow:hidden;
-text-align:center;
+  width:100%;
+  overflow:hidden;
+  text-align:center;
 }
 
 /*.clearfix {
@@ -40,22 +56,22 @@ text-align:center;
   margin-left: 15px;
   display: block; 
   }*/
-  .all_logos {
-  	display: inline-block;
-  }
+.all_logos {
+	display: inline-block;
+}
 
-  .category_logos {
-  	display: inline-block;
-  	padding-top: 0px;
-  }
+.category_logos {
+	display: inline-block;
+	padding-top: 0px;
+}
 
-  .row1{
-  	padding-bottom: 70px;
-  	padding-top: 40px;
-  }
+.row1{
+	padding-bottom: 70px;
+	padding-top: 40px;
+}
 
-  .dating {
-  	text-align: center;
+.dating {
+	text-align: center;
 /*  	background-color: red;
 */  }
 
@@ -70,9 +86,9 @@ text-align:center;
 
 .apparel {
 	text-align: center;
-/*	background-color: blue;
-*/	padding-right: 75px;
-padding-left: 75px;
+/*	background-color: blue;*/	
+  padding-right: 75px;
+  padding-left: 75px;
 }
 
 .apparel img {
@@ -109,8 +125,8 @@ padding-left: 75px;
 .retail {
 	text-align: center;
 /*	background-color: brown;
-*/	padding-right: 75px;
-padding-left: 75px;
+*/padding-right: 75px;
+  padding-left: 75px;
 }
 
 .retail img {
