@@ -41,6 +41,14 @@ body, html{
   width: 100%;
   table-layout: fixed;
   border-spacing: 5px;
+  margin-left: 100px;
+}
+
+.Row2 {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  border-spacing: 5px;
 }
 
 .Column {
