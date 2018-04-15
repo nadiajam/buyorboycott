@@ -5,39 +5,64 @@ body, html{
   color: #fff;
   font-family: "Oswald", Arial, sans-serif;
   text-align: center;
-  margin-left: 1%;
-  margin-right: 1%;
-  margin-bottom: 1%;
-  margin-top: 1%;
 }
 
 h1 {
-  width: 100%;
   text-align: center;
   letter-spacing: 0.02em;
   margin: 2em 0;
+  color: Black;
+  font-family: "Oswald", Arial, sans-serif;
 }
 
-.CP {
-  text-align: center;
-  color: black;
+.company {
+  background-color: white;
   width: 300px;
   padding: 20px;
-  padding-top: 10px;
   font-family: "Oswald", Arial, sans-serif;
-  border: 1px solid black;
   border-radius: 4px;
+  box-shadow: 0px 2px 4px 0px rgba(182, 182, 182);
+  margin: 5px;
+}
+
+.company:hover {
+  background-color: rgba(247, 247, 247);
 }
 
 .logos_ind {
-  width: 200px;
+  width: 150px;
   outline-color: blue;
 }
 
 .logos_score {
-
+  width: 150px;
 }
 
-#compare {
+/* .compare2 {
   width: 100%;
+  background-image: url(logos/delivery.png) no-repeat;
+  background-size: 100% auto;
+  /* margin-left: 0px;
+  margin-right: 0px;
+  padding: 0px; */
+/* } */
+
+.WideImage {
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.Row {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  border-spacing: 5px;
+}
+
+.Column {
+  display: table-cell;
+  background-color: red;
+  align-items: center;
+  vertical-align: middle;
 }
