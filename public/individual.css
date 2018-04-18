@@ -48,3 +48,10 @@
 .footer {
   text-align: center;
 }
+
+.BackButton {
+  height: 40px;
+  width: 40px;
+  padding: 25px;
+  padding-bottom: 0px;
+}
