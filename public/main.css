@@ -36,6 +36,11 @@ body, html{
   margin-right: 0;
 }
 
+.BackButton {
+  height: 50px;
+  width: 50px;
+}
+
 .Row {
   display: table;
   width: 100%;
